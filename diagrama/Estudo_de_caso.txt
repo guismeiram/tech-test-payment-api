@@ -1,0 +1,10 @@
+ Vendedor: id, cpf, nome, e-mail e telefone;
+ Estado: De: Aguardando pagamento Para: Pagamento Aprovado
+	   De: Aguardando pagamento Para: Cancelada
+	   De: Pagamento Aprovado Para: Enviado para Transportadora
+         De: Pagamento Aprovado Para: Cancelada
+         De: Enviado para Transportador. Para: Entregue
+A inclusão de uma venda deve possuir pelo menos 1 item;
+
+classes identificadas:
+Vendedor, Estado e Venda
