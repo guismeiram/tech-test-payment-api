@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/wKibQjWKm9RrBVI7x3nYLt1Zou3S2Cy2vJAn8GjH6GVZxwrANx/gBkKKRrq7b5l8QkCTI1RaFpud7k/mu6ReA==",
+  "dgSpecHash": "hsvN27J/mwqaKTIUEkHfPmDKjtMiIz7wzeRYEH/Wn4baVvjyRIGa6u0amuGHmXcyKLqbP7xUPGOghiUJDoet+g==",
   "success": true,
-  "projectFilePath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\TTPA.Services.csproj",
+  "projectFilePath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Application\\TTPA.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",

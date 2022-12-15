@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\TTPA.Services.csproj",
-      "projectName": "TTPA.Services",
-      "projectPath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\TTPA.Services.csproj",
+      "projectUniqueName": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Application\\TTPA.Application.csproj",
+      "projectName": "TTPA.Application",
+      "projectPath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Application\\TTPA.Application.csproj",
       "packagesPath": "C:\\Users\\guism\\.nuget\\packages\\",
-      "outputPath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\obj\\",
+      "outputPath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guism\\AppData\\Roaming\\NuGet\\NuGet.Config",
