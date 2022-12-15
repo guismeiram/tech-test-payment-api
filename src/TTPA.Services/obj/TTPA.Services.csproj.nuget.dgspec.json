@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Infra.Data\\TTPA.Infra.Data.csproj": {}
+    "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\TTPA.Services.csproj": {}
   },
   "projects": {
-    "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Infra.Data\\TTPA.Infra.Data.csproj": {
+    "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\TTPA.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Infra.Data\\TTPA.Infra.Data.csproj",
-        "projectName": "TTPA.Infra.Data",
-        "projectPath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Infra.Data\\TTPA.Infra.Data.csproj",
+        "projectUniqueName": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\TTPA.Services.csproj",
+        "projectName": "TTPA.Services",
+        "projectPath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\TTPA.Services.csproj",
         "packagesPath": "C:\\Users\\guism\\.nuget\\packages\\",
-        "outputPath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Infra.Data\\obj\\",
+        "outputPath": "G:\\TRABALHO\\ESTUDOS\\Projetos\\tech-test-payment-api\\src\\TTPA.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guism\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,6 +50,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }

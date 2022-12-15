@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TTPA.Service")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TTPA.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TTPA.Service")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TTPA.Service")]
+[assembly: System.Reflection.AssemblyProductAttribute("TTPA.Services")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TTPA.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
