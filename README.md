@@ -1,4 +1,24 @@
 # tech-test-payment-api
+
+Este repositorio tem intuito de simular um teste técnico feito pela Dio. Você vera diversos assuntos abordados neste pprojeto.<br>
+ENtre elese:<br>
+-DDD<br>
+-Entity Framework<br>
+-Modelagem de classes<br>
+-API<br>
+-Autommaper<br>
+-Injesão de dependencia<br>
+
+Entre outros assuntos.<br>
+
+
+Para clonar este repositorio basta:<br>
+git clone https://github.com/guismeiram/tech-test-payment-api<br>
+
+Gerar o banco:<br>
+Update-DataBase -Context PaymentDbContext<br>
+
+
 INSTRUÇÕES PARA O TESTE TÉCNICO<br>
 Crie um fork deste projeto (https://gitlab.com/Pottencial/tech-test-payment-api/-/forks/new). É preciso estar logado na sua conta Gitlab;
 Adicione @Pottencial (Pottencial Seguradora) como membro do seu fork. Você pode fazer isto em: https://gitlab.com/`your-user`/tech-test-payment-api/settings/members ;
