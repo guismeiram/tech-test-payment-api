@@ -17,7 +17,6 @@ namespace TTPA.Domain.Entities
         public IEnumerable<Pessoa> Pessoas { get; set; }
 
         public Status Status { get; set; }
-        public string ProtocoloPedido { get; set; }
 
     }
 }
